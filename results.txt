@@ -1,0 +1,52 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	results.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+* main
+  newgit
+commit fe5d1bfaffe151f4bd249f0f848db1c70bb7d5d4
+Author: diana kylymnyuk <diisswix@gmail.com>
+Date:   Fri Oct 23 10:18:41 2026 +0300
+
+    Create web-note.txt
+
+commit 33a8f37064812ea01929bf0f2d838f2fa919d6ed
+Merge: 77db9b0 90d2591
+Author: Diana <diisswix@gmail.com>
+Date:   Fri Oct 23 10:14:58 2026 +0300
+
+    Вирішила конфлікт злиття між main та newgit
+
+commit 77db9b06d8fb59e20fce2a34ee483bafd9aaa5ac
+Author: Diana <diisswix@gmail.com>
+Date:   Fri Oct 23 10:08:36 2026 +0300
+
+    Змінила note.txt у головній гілці main
+
+commit 90d2591d2794a581b374829d39162ca0f1225655
+Author: Diana <diisswix@gmail.com>
+Date:   Fri Oct 23 10:06:31 2026 +0300
+
+    Додала другий рядок тексту у гілці newgit
+
+commit d397bcb6921d7efacd38e6508434599d12eb125b
+Author: Diana <diisswix@gmail.com>
+Date:   Fri Oct 23 10:05:09 2026 +0300
+
+    Додала перший рядок тексту у гілці newgit
+
+commit f607fc5a487f0ccd41f3eb18fd1884420c185f47
+Author: diana kylymnyuk <diisswix@gmail.com>
+Date:   Fri Oct 23 09:49:36 2026 +0300
+
+    Initial commit
+commit 33a8f37064812ea01929bf0f2d838f2fa919d6ed
+Merge: 77db9b0 90d2591
+Author: Diana <diisswix@gmail.com>
+Date:   Fri Oct 23 10:14:58 2026 +0300
+
+    Вирішила конфлікт злиття між main та newgit
